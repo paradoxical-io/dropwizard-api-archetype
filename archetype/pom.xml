@@ -28,7 +28,7 @@
     </pluginManagement>
   </build>
 
-  <description>Dropwizard template</description>
+  <description>A simple dropwizard api template with swagger enabled, bundled as a docker container</description>
 
   <developers>
     <developer>
