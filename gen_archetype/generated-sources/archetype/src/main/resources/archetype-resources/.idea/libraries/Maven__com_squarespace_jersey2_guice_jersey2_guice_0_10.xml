@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: com.squarespace.jersey2-guice:jersey2-guice:0.10">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/squarespace/jersey2-guice/jersey2-guice/0.10/jersey2-guice-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/squarespace/jersey2-guice/jersey2-guice/0.10/jersey2-guice-0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/squarespace/jersey2-guice/jersey2-guice/0.10/jersey2-guice-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

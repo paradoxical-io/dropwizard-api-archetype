@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: uk.co.jemos.podam:podam:5.4.0.RELEASE">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/uk/co/jemos/podam/podam/5.4.0.RELEASE/podam-5.4.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/uk/co/jemos/podam/podam/5.4.0.RELEASE/podam-5.4.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/uk/co/jemos/podam/podam/5.4.0.RELEASE/podam-5.4.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
