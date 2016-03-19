@@ -5,8 +5,8 @@ if [ "$TRAVIS_BRANCH" == "master" ]; then
 
     SHA_SHORT=`git rev-parse --short HEAD`
 
-    docker_image="com.group/appname:${SHA_SHORT}_dev"
-    docker_latest="group/appname"
+    docker_image="${groupId}/${artifactId}:${SHA_SHORT}_dev"
+    docker_latest="${groupId}/${artifactId}"
 
     docker tag -f ${docker_image} ${docker_latest}
 

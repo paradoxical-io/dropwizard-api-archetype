@@ -37,18 +37,12 @@
             <include>**/*.java</include>
           </includes>
         </fileSet>
-        <fileSet encoding="UTF-8">
-          <directory>docker/data</directory>
-          <includes>
-            <include>**/*.</include>
-            <include>**/*.yml</include>
-            <include>**/bin/service</include>
-          </includes>
-        </fileSet>
         <fileSet encoding="UTF-8" filtered="true">
           <directory>docker</directory>
           <includes>
             <include>**/*.</include>
+            <include>**/*.yml</include>
+            <include>**/bin/service</include>
           </includes>
         </fileSet>
         <fileSet filtered="true" encoding="UTF-8">

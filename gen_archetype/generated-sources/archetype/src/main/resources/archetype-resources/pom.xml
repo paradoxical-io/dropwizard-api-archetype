@@ -48,7 +48,8 @@
         <!-- Project Settings -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <dockerRepo>com.group</dockerRepo>
+        <gpg.passphrase>${env.GPG_PASSWORD}</gpg.passphrase>
+        <dockerRepo>${groupId}</dockerRepo>
         <jenkinsBuildNumber>dev</jenkinsBuildNumber>
         <!-- build.git_sha is created below -->
         <git_sha>${build.git_sha}</git_sha>

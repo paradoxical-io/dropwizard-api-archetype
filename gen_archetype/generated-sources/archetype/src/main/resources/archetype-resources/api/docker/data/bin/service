@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-classname="${package}.ServiceApplication"
+classname="${groupId}.ServiceApplication"
 
 command="server"
 
