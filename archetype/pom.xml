@@ -4,7 +4,7 @@
 
   <groupId>io.paradoxical</groupId>
   <artifactId>dropwizard-api</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>dropwizard-api-archetype</name>
@@ -75,6 +75,7 @@
   <scm>
     <connection>scm:git:git@github.com:paradoxical-io/dropwizard.api.archetype.git</connection>
     <developerConnection>scm:git:git@github.com:paradoxical-io/dropwizard.api.archetype.git</developerConnection>
+    <tag>dropwizard-api-1.0</tag>
   </scm>
 
     <profiles>
