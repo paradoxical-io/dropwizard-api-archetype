@@ -201,7 +201,7 @@
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
                 <configuration>
-                    <imageName>${dockerRepo}/appname:${buildNumber}</imageName>
+                    <imageName>${dockerRepo}/${artifactId}:${buildNumber}</imageName>
                     <dockerDirectory>${project.basedir}/docker</dockerDirectory>
                     <resources>
                         <resource>
