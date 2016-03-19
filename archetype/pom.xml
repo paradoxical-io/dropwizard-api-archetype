@@ -86,6 +86,7 @@
     </licenses>
 
     <scm>
+        <url>https://github.com/paradoxical-io/dropwizard.api.archetype</url>
         <connection>scm:git:git@github.com:paradoxical-io/dropwizard.api.archetype.git</connection>
         <developerConnection>scm:git:git@github.com:paradoxical-io/dropwizard.api.archetype.git</developerConnection>
       <tag>HEAD</tag>
