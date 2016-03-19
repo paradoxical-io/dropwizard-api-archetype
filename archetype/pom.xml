@@ -4,8 +4,11 @@
 
     <groupId>io.paradoxical</groupId>
     <artifactId>dropwizard-api</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
+    <description>A simple dropwizard (0.9.1) api template with swagger enabled, bundled as a docker container</description>
+    <url>https://github.com/paradoxical-io/dropwizard.api.archetype</url>
+
 
     <name>dropwizard-api-archetype</name>
 
@@ -50,10 +53,6 @@
             </plugins>
         </pluginManagement>
     </build>
-
-    <description>A simple dropwizard (0.9.1) api template with swagger enabled, bundled as a docker container
-    </description>
-
     <developers>
         <developer>
             <id>devshorts</id>
