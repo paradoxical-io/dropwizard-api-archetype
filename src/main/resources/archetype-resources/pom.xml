@@ -72,9 +72,9 @@
 
         <godaddy.logging.version>1.2.1</godaddy.logging.version>
 
-        <dropwizard.version>0.9.1</dropwizard.version>
+        <dropwizard.version>0.9.2</dropwizard.version>
         <dropwizard.template.config.version>1.1.0</dropwizard.template.config.version>
-        <dropwizard.metrics.version>0.9.1</dropwizard.metrics.version>
+        <dropwizard.metrics.version>0.9.2</dropwizard.metrics.version>
         <dropwizard.guice.version>0.8.4.0</dropwizard.guice.version>
 
         <guava.version>18.0</guava.version>
