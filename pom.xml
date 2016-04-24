@@ -16,6 +16,7 @@
     <properties>
         <revision>-SNAPSHOT</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.source.plugin.version>2.4</maven.source.plugin.version>
     </properties>
 
     <distributionManagement>
