@@ -7,10 +7,16 @@
     <artifactId>dropwizard-api</artifactId>
     <version>0.9.2${revision}</version>
     <packaging>maven-archetype</packaging>
-    <description>A simple dropwizard (0.9.2) api template with swagger enabled, bundled as a docker container</description>
+    <description>A simple dropwizard (0.9.2) api template with swagger enabled, bundled as a docker container
+    </description>
     <url>https://github.com/paradoxical-io/dropwizard.api.archetype</url>
 
     <name>dropwizard-api-archetype</name>
+
+    <properties>
+        <revision>-SNAPSHOT</revision>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
     <distributionManagement>
         <snapshotRepository>
